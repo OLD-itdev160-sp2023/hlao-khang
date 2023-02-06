@@ -1,1 +1,3 @@
-# hlao-khang
+# Hlao Khang
+
+## Welcome to the repo
