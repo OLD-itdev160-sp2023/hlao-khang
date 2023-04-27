@@ -1,0 +1,36 @@
+body {
+    font-family: "Open Sans";
+    color: #555;
+}
+
+h1{
+    color: #555;
+}
+
+img{
+    width: 250px;
+    text-align: left;
+}
+
+figcaption span{
+    font-size: .85em;
+}
+
+p#anime-description{
+    margin: 20px 0 20px 0;
+    text-align: justify;
+}
+
+.services{
+    padding: 10px;
+}
+
+.logo{
+    width: 40px;
+}
+
+div.review{
+    padding: 10px;
+    background-color: #eee;
+    margin: 20px 0 20px 0;
+}
