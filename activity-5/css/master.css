@@ -1,0 +1,60 @@
+body{
+  font-family: 'Open Sans', sans-serif;
+  margin: auto 30px;
+}
+
+h1{
+  font-size: 50px;
+  font-weight: bolder;
+}
+
+#credit{
+  font-style: italic;
+  font-size: .75em;
+  margin-bottom: 20px;
+}
+
+#header-image{
+  width: 100%;
+}
+
+.main-article{
+  margin-left: 5%;
+  width: 60%;
+}
+
+.writing{
+  margin-left: 5%;
+}
+
+.marketing-button{
+  display:inline-block;
+  padding:1em 1.8125em;
+  border-radius:4px;
+  font-family:ShopifySans, Helvetica, Arial, sans-serif;
+  font-weight:700;
+  font-size:1em;
+  line-height:1.133;
+  transition:150ms ease;
+  transition-property:background-color, border-color, box-shadow, color;
+  text-align:center;
+  text-decoration: none;
+  cursor:pointer;
+  box-shadow:0 5px 15px 0 rgba(0,0,0,0.15);
+  background-color:#008060;
+  color:#ffffff;
+  border-width:1px;
+  border-style:solid;
+  border-color:transparent;
+}
+
+.marketing-button:hover, .marketing-button:focus {
+  background-color: #004C3F;
+  color: #ffffff;
+}
+
+.marketing-button:active {
+  background-color: #002E25;
+  color: #ffffff;
+  border-color: #002E25;
+}
