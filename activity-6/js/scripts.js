@@ -126,11 +126,6 @@ function loadSeedData() {
   }
 }
 
-/*********************************************
- * FRIENDS data stuff
- * 
- ***********************************************/
-
 var init = function() {
   // wire event handlers
   document.getElementById('send-button').onclick = addMessageHandler;
